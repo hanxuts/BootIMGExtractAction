@@ -6,7 +6,7 @@ on:
       rom_url:
         description: 'ROM 下载直链'
         required: true
-        default: 'https://https://bigota.d.miui.com/V14.0.8.0.TLFCNXM/miui_DITING_V14.0.8.0.TLFCNXM_2c3f0b1c25_13.0.zip'
+        default: ''
 
 jobs:
   BootIMGExtractAction:
